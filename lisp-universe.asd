@@ -5,7 +5,7 @@
   :description "Describe lisp-universe here"
   :author "Your Name <your.name@example.com>"
   :license "Specify license here"
-  :depends-on (#:rt)
+  :depends-on (#:rt #:cl-json)
   :components ((:file "package")
                (:file "lisp-universe")))
 
