@@ -1,1 +1,0 @@
-sbcl --eval "(ql:quickload \"lisp-universe\")"
